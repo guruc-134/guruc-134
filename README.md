@@ -9,12 +9,12 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 - 🔗 I’m looking to collaborate on ...
     Projects in python
  - 🎯 Aim for 2020 : Getting better at DSA and contributing more often
- #### Languages I use:
+ #### Languages I use :
 Python , 
 Java ,
 C++ ,
 C
- ### u can connect with me at :  
+ ### You can connect with me at :  
 #### Linkedin [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/guru-charan-7103561a1/)<br>
 #### HackerRank [![HackerRank Card](https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png)](https://www.hackerrank.com/guruc134) <br>
 #### [BinarySearch.io](https://binarysearch.com/@/Guruc134)
