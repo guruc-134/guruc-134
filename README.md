@@ -1,4 +1,5 @@
-# Hi there 👋  I'm GURU
+# Hi there <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px">  I'm GURU </h2> 
+
 ## about me 🙋🏻‍♂️:
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 - Im a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)
