@@ -2,9 +2,9 @@
 
 ## about me 🙋🏻‍♂️:
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
-- Im a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)
+- I'm a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)
 - Member of Google Developers Group Vizag (GDG Vizag) 
-- Im a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
+- I'm a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
 - 🔭 I’m currently working on ... 
     Competitive Programming | DSA | Developing Skills in Programming Languages
 - 🔗 I’m looking to collaborate on ...
