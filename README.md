@@ -16,6 +16,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guruc-134&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
  <h3 align="left">Connect with me:</h3>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=guruc-134&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
 <a href="https://linkedin.com/in/guru charan" target="blank"><img align="center" src="https://img.icons8.com/color/28/000000/linkedin.png" alt="guru charan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guruc134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guruc134" height="30" width="40" /></a>
