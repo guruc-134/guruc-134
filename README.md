@@ -13,6 +13,8 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  #### some words of inspiration
  "📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
  Learning is the best investment we can make "
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guruc-134)](https://github.com/DenverCoder1/github-readme-streak-stats)
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/guru charan" target="blank"><img align="center" src="https://img.icons8.com/color/28/000000/linkedin.png" alt="guru charan" height="30" width="40" /></a>
