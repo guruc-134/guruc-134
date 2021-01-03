@@ -24,7 +24,6 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 
  ![Guru's github stats](https://github-readme-stats.vercel.app/api?username=guruc-134&show_icons=true&theme=dark)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guruc-134&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
- [![trophy](https://github-profile-trophy.vercel.app/?username=guruc-134&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
     
 </p>
