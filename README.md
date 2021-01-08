@@ -9,7 +9,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     Competitive Programming | DSA | Developing Skills in Programming Languages
 - 🔗 I’m looking to collaborate on ...
     Projects in python
- - 🎯 Aim for 2020 : Getting better at DSA and contributing more often
+ - 🎯 Aim for 2021 : Getting better at DSA and contributing more often
  #### some words of inspiration
  "📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
  Learning is the best investment we can make "
