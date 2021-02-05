@@ -22,7 +22,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://www.hackerrank.com/guruc134" target="blank"><img align="center" src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png" alt="guruc134" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/guruc_134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="guruc_134" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@guruc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@guruc" height="30" width="40" /></a>
-<a href="https://binarysearch.com/@/Guruc134" target="blank"><img align="center" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" alt="@guruc" height="30" width="40" /><a/>
+<a href="https://binarysearch.com/@/Guruc134" target="blank"><img align="center" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" alt="@guruc" height="30" width="40" border-radius="100px"/><a/>
 
  <!--- ![Guru's github stats](https://github-readme-stats.vercel.app/api?username=guruc-134&show_icons=true&theme=dark)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guruc-134&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
