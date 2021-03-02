@@ -17,7 +17,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  Learning is the best investment we can make "
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guru charan" target="blank"><img align="center" src="https://img.icons8.com/color/28/000000/linkedin.png" alt="guru charan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guru-charan-kakaraparty-7103561a1/" target="blank"><img align="center" src="https://img.icons8.com/color/28/000000/linkedin.png" alt="guru charan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/guruc134" target="blank"><img align="center" src="https://www.codechef.com/sites/all/themes/abessive/logo.svg" alt="guruc134" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/guruc134" target="blank"><img align="center" src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hackerrank..png" alt="guruc134" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/guruc_134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="guruc_134" height="30" width="40" /></a>
