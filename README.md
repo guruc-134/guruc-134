@@ -3,6 +3,8 @@
 ## about me 🙋🏻‍♂️:
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 - I'm a Microsoft Student Ambassador.
+<img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
+
 - I'm a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)
 - Member of Google Developers Group Vizag (GDG Vizag) 
 - Intern at Coding Ninjas
@@ -23,10 +25,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://codeforces.com/profile/guruc_134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="guruc_134" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@guruc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@guruc" height="30" width="40" /></a>
 <a href="https://binarysearch.com/@/Guruc134" target="blank"><img align="center" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" alt="@guruc" height="30" width="40" border-radius="100px"/><a/>
-
- <!--- ![Guru's github stats](https://github-readme-stats.vercel.app/api?username=guruc-134&show_icons=true&theme=dark)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guruc-134&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
-    
+ 
 </p>
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
