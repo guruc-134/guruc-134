@@ -2,8 +2,9 @@
 
 ## about me 🙋🏻‍♂️:
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
-- I'm a Microsoft Student Ambassador.
-<img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
+
+<span>I'm a Microsoft Student Ambassador</span><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
+
 
 - I'm a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)
 - Member of Google Developers Group Vizag (GDG Vizag) 
