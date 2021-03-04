@@ -27,15 +27,6 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://www.hackerearth.com/@guruc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@guruc" height="30" width="40" /></a>
 <a href="https://binarysearch.com/@/Guruc134" target="blank"><img align="center" src="https://miro.medium.com/max/312/1*vC6VtkV4Di6HnbiX_EjDvQ.png" alt="@guruc" height="30" width="40" border-radius="100px"/><a/>
  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guru charan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guru charan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/guruc134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="guruc134" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/guruc134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="guruc134" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/guruc_134" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="guruc_134" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@guruc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@guruc" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
