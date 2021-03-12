@@ -4,8 +4,6 @@
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 
 - <span>I'm a Beta Microsoft Student Ambassador</span><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
-
-
 - <span>I'm a Core Team Member of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)</span><img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY" height="50" width="50"/>
 - <span>Member of Google Developers Group Vizag (GDG Vizag)</span>
 - <span>Intern at Coding Ninjas </span><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width='50'/>
