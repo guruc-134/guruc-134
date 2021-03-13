@@ -8,6 +8,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 - <span>Member of Google Developers Group Vizag (GDG Vizag)</span>
 - <span>Intern at Coding Ninjas </span><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width='50'/>
 - I'm a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
+- I'm Currenty a 3⭐ Coder in Code Chef
 - 🔭 I’m currently working on:
     Competitive Programming and  Web Development
     - <span> I started contributing in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
