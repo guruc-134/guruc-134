@@ -45,7 +45,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 </p>
 
 <h3 align='left'> My new Friend </h3>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png"/> : just got started with it
+<span> <b>getting started with</b> </span> <img src="https://img.icons8.com/plasticine/100/000000/react.png"/> 
 
 <!--
 **guruc-134/guruc-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
