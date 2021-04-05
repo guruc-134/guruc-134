@@ -35,6 +35,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp; &nbsp;
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp;&nbsp;
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="50" height="50"/> &nbsp;&nbsp;
  </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -43,7 +44,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" alt="VSC" width="40" height="40"/> </a>  &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/ios-filled/150/26e07f/atom-editor.png" alt="atom" width="40" height="40"/> </a>
 
-<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="50" height="50"/> 
+
 </p>
 <!--
 **guruc-134/guruc-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
