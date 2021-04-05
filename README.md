@@ -42,11 +42,9 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" alt="VSC" width="40" height="40"/> </a>  &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/ios-filled/150/26e07f/atom-editor.png" alt="atom" width="40" height="40"/> </a>
+
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="50" height="50"/> 
 </p>
-
-<h3 align='left'> My new Friend </h3>
-<span> <b>getting started with   &rarr; </b> <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="50" height="50"/> </span> 
-
 <!--
 **guruc-134/guruc-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
