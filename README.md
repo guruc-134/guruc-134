@@ -29,7 +29,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://app.codesignal.com/profile/121910308_knn" target="blank"><img align="center" src="https://app.codesignal.com/img/logos/logo_white.svg" alt="@guruc" height="30" width="60" /><a/>
     </p>
  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I used / know</h3>
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;
