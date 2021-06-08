@@ -8,12 +8,12 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 - <span>Member of Google Developers Group Vizag (GDG Vizag)</span>
 - <span>Intern at Coding Ninjas </span><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width='50'/>
 - I'm a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
+- I'm a Web Developert
 - I'm Currenty a 3⭐ Coder in Code Chef
 - 🔭 I’m currently working on:
     Competitive Programming and  Web Development
     - <span> I started contributing in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
-- 🔗 I’m looking to collaborate on ...
-    Projects in python , Projects related to web Development
+- 🔗 I’m looking to collaborate on ...  Projects related to web Development
  - 🎯 Aim for 2021 : Getting better at DSA, Web Development and contributing more often
  ### some words of inspiration
  "📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
@@ -40,6 +40,9 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  </a> 
  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"></img>  &nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> &nbsp;&nbsp;( recently added to the techstack)
+
+
 
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
@@ -48,7 +51,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-svg-vector.svg" alt="VSC" width="40" height="40"/> </a>  &nbsp; &nbsp;
     <a href="https://atom.io/" target="_blank"> <img src="https://img.icons8.com/ios-filled/150/26e07f/atom-editor.png" alt="atom" width="40" height="40"/> </a>
-
+<img src="https://img.icons8.com/wired/48/000000/postman-api.png"/>&nbsp;&nbsp;
 
 </p>
 <!--
