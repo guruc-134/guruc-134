@@ -54,6 +54,12 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 <img src="https://img.icons8.com/wired/48/000000/postman-api.png"/>&nbsp;&nbsp;
 
 </p>
+
+![Guru Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guruc-134&count_private=&trueshow_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guruc-134&langs_count=8&layout=compact)](https://github.com/guruc-134/github-readme-stats)
+[![Guru's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guruc-134&layout=compact)](https://github.com/guruc-134/github-readme-stats)
+
+
 <!--
 **guruc-134/guruc-134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
