@@ -40,7 +40,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  </a> 
  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"></img>  &nbsp;&nbsp;
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> &nbsp;&nbsp;( recently added to the techstack)
+ <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> &nbsp;&nbsp;
 
 
 
