@@ -99,7 +99,14 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
         height="40"
     />
     </a> &nbsp; &nbsp;&nbsp; &nbsp;
-
+<a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+  </a>
+    &nbsp; &nbsp;&nbsp; &nbsp;
+ <a href="https://www.figma.com/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+ &nbsp; &nbsp;&nbsp; &nbsp;
 <a href="https://sass-lang.com" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
