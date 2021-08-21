@@ -12,7 +12,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 - I'm Currenty a 3⭐ Coder in Code Chef
 - 🔭 I’m currently working on:
     Competitive Programming and  Web Development
-    - <span> I started contributing in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
+    - <span> I contributed in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
 - 🔗 I’m looking to collaborate on ...  Projects related to web Development
  - 🎯 Aim for 2021 : Getting better at DSA, Web Development and contributing more often
  ### some words of inspiration
