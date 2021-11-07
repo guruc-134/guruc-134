@@ -4,14 +4,14 @@
 I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 - <span> Web Developer at Swipe Designs pvt ltd.
 - <span>I'm a Beta Microsoft Student Ambassador</span><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
-- <span>I'm the Lead of 👨‍💻[DSC Gitam](https://github.com/dsc-gitam)</span><img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY" height="50" width="50"/>
+- <span>I'm the Lead of 👨‍💻[GDSC GITAM Visakhapatnam](https://github.com/dsc-gitam)</span><img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY" height="50" width="50"/>
 - <span>Member of Google Developers Group Vizag (GDG Vizag)</span>
 - <span>Intern at Coding Ninjas </span><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width='50'/>
 - I'm a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
-- I'm a Web Developer
+- I'm a Web Developer.
 - I'm Currenty a 3⭐ Coder in Code Chef
 - 🔭 I’m currently working on:
-    Competitive Programming and  Web Development
+    Competitive Programming and  Full Stack Web Development
     - <span> I contributed in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
 - 🔗 I’m looking to collaborate on ...  Projects related to web Development
  - 🎯 Aim for 2021 : Getting better at DSA, Web Development and contributing more often
