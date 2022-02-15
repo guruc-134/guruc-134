@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&center=true&lines=Hello%2C+Welcome+to+my+Github+Profile;I+am+Guru++Charan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Hello%2C+Welcome+to+my+Github+Profile;I+am+Guru++Charan)](https://git.io/typing-svg)
 ## about me 🙋🏻‍♂️:
 I'm a prefinal year student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 
