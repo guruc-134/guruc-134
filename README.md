@@ -1,20 +1,8 @@
 # Hi there <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/hi.gif" width="40px">  I'm Guru </h2> 
 
 ## about me 🙋🏻‍♂️:
-I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/). 
-- <span> React Redux Developer at PolBol Media -(YBoxMedia).
-- <span>I'm a Beta Microsoft Student Ambassador</span><img src="https://studentambassadors.microsoft.com/Assets/Badge/LevelBeta.png" height="30" width="40"/>
-- <span>I'm the Lead of 👨‍💻[GDSC GITAM Visakhapatnam](https://github.com/dsc-gitam)</span><img src="https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY" height="50" width="50"/>
-- <span>Member of Google Developers Group Vizag (GDG Vizag)</span>
-- <span>Intern at Coding Ninjas </span><img src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" width='50'/>
-- I'm a problem setter and organiser for HACK 101 - (hackathon conducted by DSC GITAM)
-- I'm a Web Developer.
-- I'm Currenty a 3⭐ Coder in Code Chef
-- 🔭 I’m currently working on:
-    Competitive Programming and  Full Stack Web Development
-    - <span> I contributed in GSSoC 21 </span><img src='https://gssoc.girlscript.tech/images/type-logo.png' width='80'/>
-- 🔗 I’m looking to collaborate on ...  Projects related to web Development
- - 🎯 Aim for 2021 : Getting better at DSA, Web Development and contributing more often
+I'm a prefinal year student of Computer Science in [Gitam University](https://www.gitam.edu/). 
+
  ### some words of inspiration
  "📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
  Learning is the best investment we can make "
@@ -31,7 +19,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://reactjs.org/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://reactjs.org/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
         alt="react"
@@ -40,7 +28,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     />
     </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://nodejs.org" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://nodejs.org" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     alt="nodejs"
@@ -55,7 +43,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     height="40"
 />
  &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://www.mongodb.com/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.mongodb.com/" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
     alt="mongodb"
@@ -63,17 +51,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     height="40"
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
-
-<a href="https://expressjs.com" target="_blank">
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="40"
-        height="40"
-    />
-</a> &nbsp; &nbsp;&nbsp; &nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
@@ -82,7 +60,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
    
-<a href="https://firebase.google.com/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://firebase.google.com/" target="_blank">
     <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
         alt="firebase"
@@ -91,7 +69,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     />
     </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://redux.js.org" target="_blank">
+<a  class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://redux.js.org" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
         alt="redux"
@@ -99,15 +77,15 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
         height="40"
     />
     </a> &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://jestjs.io" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://jestjs.io" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a>
     &nbsp; &nbsp;&nbsp; &nbsp;
- <a href="https://www.figma.com/" target="_blank">
+ <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.figma.com/" target="_blank">
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
  &nbsp; &nbsp;&nbsp; &nbsp;
-<a href="https://sass-lang.com" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://sass-lang.com" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
     alt="sass"
@@ -116,7 +94,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://vuejs.org/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://vuejs.org/" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
     alt="vuejs"
@@ -125,7 +103,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.w3.org/html/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.w3.org/html/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         alt="html5"
@@ -134,7 +112,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.w3schools.com/css/" target="_blank">
     <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
         alt="css3"
@@ -143,7 +121,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
     />
     </a> &nbsp; &nbsp;&nbsp; &nbsp;    
     
-<a href="https://getbootstrap.com" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://getbootstrap.com" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap"
@@ -152,7 +130,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.cprogramming.com/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.cprogramming.com/" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
     alt="c"
@@ -161,7 +139,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.w3schools.com/cpp/" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus"
@@ -170,7 +148,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://git-scm.com/" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://git-scm.com/" target="_blank">
 <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
@@ -179,7 +157,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.java.com" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.java.com" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java"
@@ -189,7 +167,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
 
-<a href="https://postman.com" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://postman.com" target="_blank">
 <img
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
     alt="postman"
@@ -198,7 +176,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
-<a href="https://www.python.org" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.python.org" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python"
@@ -208,7 +186,7 @@ I'm a student of Computer Science in [Gitam University](https://www.gitam.edu/).
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 
 
-<a href="https://webpack.js.org" target="_blank">
+<a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://webpack.js.org" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
     alt="webpack"
