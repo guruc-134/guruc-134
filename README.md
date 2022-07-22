@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Hello%2C+Welcome+to+my+Github+Profile;I+am+Guru++Charan)](https://git.io/typing-svg)
 ## about me 🙋🏻‍♂️:
-I'm a prefinal year student of Computer Science in [Gitam University](https://www.gitam.edu/). 
+I'm a final year student of Computer Science in [Gitam University](https://www.gitam.edu/). 
 I am a ReactJs developer
  ### some words of inspiration
  "📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
