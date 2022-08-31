@@ -19,7 +19,7 @@ with an ambition to succeed in any given environment.
 <a href="https://app.codesignal.com/profile/121910308_knn" target="blank"><img align="center" src="https://app.codesignal.com/img/logos/logo_white.svg" alt="@guruc" height="30" width="60" /><a/>
     </p>
  
-<h3 align="left">Languages and tools that I have used</h3>
+<h3 align="left">Languages and Tools</h3>
 <div id="programming_languages">
 <h4> Programming Languages </h4>
 <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
