@@ -200,6 +200,7 @@ with an ambition to succeed in any given environment.
 />
 </a> &nbsp; &nbsp;&nbsp; &nbsp;
 </div>
+ <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guruc-134" alt="guruc-134" /></a> </p>
 
 ![Guru Charan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guruc-134&count_private=true&show_icons=true)
