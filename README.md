@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Hello%2C+Welcome+to+my+Github+Profile;I+am+Guru++Charan)](https://git.io/typing-svg)
 ## About me 🙋🏻‍♂️:
-I'm a final year student of Computer Science in [Gitam University](https://www.gitam.edu/) with experience in Web Development
-through multiple projects and internships. I am a determined individual and a passionate leader
-with an ambition to succeed in any given environment.
+I am an enthusiastic developer with a keen interest in crafting applications to address real-world challenges. I thrive as a team player and actively take initiative in my projects.
+My experience includes the development of diverse applications, such as full-stack web applications and backend APIs, showcased through numerous personal projects. Notably, I created a software solution for our university that received great appreciation.
+
+Having worked across various settings, from small Ed-tech startups to multinational companies like Amazon and TCS, I have gained valuable insights. In startups, I adeptly navigated fast-paced environments, assuming multiple roles to meet project expectations. At Amazon, I contributed to large-scale projects, focusing on building and maintaining data pipelines and enhancing tools that integrated web platforms with AWS to boost team efficiency.
+
 
  ### Some words of inspiration
  <u><em>📖📖 Learning is a treasure that will follow its owner everywhere and the beautiful thing about learning is that nobody can take it away from you 🧠
